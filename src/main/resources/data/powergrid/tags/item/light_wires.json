@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "powergrid_wires_expanded:copper_wire_25mm",
+    "powergrid_wires_expanded:copper_wire_50mm"
+  ]
+}
