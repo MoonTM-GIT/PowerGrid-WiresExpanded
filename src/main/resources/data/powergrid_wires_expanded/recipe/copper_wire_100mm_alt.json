@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "powergrid:copper_plating_slab"
+    }
+  ],
+  "results": [
+    {
+      "id": "powergrid_wires_expanded:copper_wire_100mm",
+      "count": 2
+    }
+  ],
+  "processingTime": 50
+}
