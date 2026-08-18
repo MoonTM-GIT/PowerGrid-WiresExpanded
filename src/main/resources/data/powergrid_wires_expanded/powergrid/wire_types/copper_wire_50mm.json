@@ -4,7 +4,7 @@
   "insulated":  false,
   "itemsPerMeter": 0.5,
   "maximumCurrent": 200,
-  "maximumLength": 16.0,
+  "maximumLength": 10,
   "resistancePerItem": 0.000356,
   "texture":  "powergrid:textures/special/copper_wire.png",
   "thermalMass": 5,
