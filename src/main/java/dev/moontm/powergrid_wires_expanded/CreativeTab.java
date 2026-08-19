@@ -12,10 +12,7 @@ public class CreativeTab {
             .title(Component.translatable("itemGroup.wires_expanded"))
             .displayItems((parameters, output) -> {
                 // Copper Wire
-                output.accept(WireItems.COPPER_WIRE_25MM);
-                output.accept(WireItems.COPPER_WIRE_50MM);
-                output.accept(WireItems.COPPER_WIRE_100MM);
-                output.accept(WireItems.COPPER_WIRE_200MM);
+                WireItems.COPPER_WIRES.forEach(output::accept);
             })
             .build());
 }
