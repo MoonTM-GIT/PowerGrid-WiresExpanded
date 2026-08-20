@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "XYX",
+    " Z "
+  ],
+  "key": {
+    "X": {
+      "item": "create:copper_sheet"
+    },
+    "Y": {
+      "item": "create:polished_rose_quartz"
+    },
+    "Z": {
+      "item": "powergrid:conductive_casing"
+    }
+  },
+  "result": {
+    "id": "powergrid_wires_expanded:physical_diode",
+    "count": 1
+  }
+}
