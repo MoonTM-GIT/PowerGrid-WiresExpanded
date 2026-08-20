@@ -3,6 +3,8 @@
   "values": [
     "powergrid_wires_expanded:copper_wire_25mm",
     "powergrid_wires_expanded:copper_wire_50mm",
+    "powergrid_wires_expanded:insulated_copper_wire_25mm",
+    "powergrid_wires_expanded:insulated_copper_wire_50mm",
     "powergrid_wires_expanded:iron_wire_50mm"
   ]
 }

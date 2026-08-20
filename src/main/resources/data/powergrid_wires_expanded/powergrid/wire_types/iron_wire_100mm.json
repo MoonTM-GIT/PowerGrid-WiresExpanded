@@ -4,7 +4,7 @@
   "insulated":  false,
   "itemsPerMeter": 0.5,
   "maximumCurrent": 150,
-  "maximumLength": 10,
+  "maximumLength": 28,
   "resistancePerItem": 0.000971,
   "texture":  "powergrid:textures/special/iron_wire.png",
   "thermalMass": 11,

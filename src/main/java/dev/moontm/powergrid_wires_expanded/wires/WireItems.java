@@ -23,6 +23,12 @@ public class WireItems {
     public static final DeferredItem<Item> COPPER_WIRE_100MM = wire("copper_wire_100mm");
     public static final DeferredItem<Item> COPPER_WIRE_200MM = wire("copper_wire_200mm");
 
+    // Insulated Copper Wires
+    public static final DeferredItem<Item> INSULATED_COPPER_WIRE_25MM = wire("insulated_copper_wire_25mm");
+    public static final DeferredItem<Item> INSULATES_COPPER_WIRE_50MM = wire("insulated_copper_wire_50mm");
+    public static final DeferredItem<Item> INSULATED_COPPER_WIRE_100MM = wire("insulated_copper_wire_100mm");
+    public static final DeferredItem<Item> INSULATED_COPPER_WIRE_200MM = wire("insulated_copper_wire_200mm");
+
     // Iron Wire
     public static final DeferredItem<Item> IRON_WIRE_50MM = wire("iron_wire_50mm");
     public static final DeferredItem<Item> IRON_WIRE_100MM = wire("iron_wire_100mm");
