@@ -7,7 +7,7 @@
   "maximumLength": 8,
   "resistancePerItem": 0.000178,
   "texture":  "powergrid:textures/special/insulated_wire.png",
-  "thermalMass": 2.5,
+  "thermalMass": 10,
   "verticalCoefficient": 1.01,
   "horizontalCoefficient": 1.01,
   "wireThickness":  0.25
