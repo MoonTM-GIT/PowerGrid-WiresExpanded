@@ -14,6 +14,7 @@ public class DiodeBlockEntity extends ElectricBlockEntity {
     private static final double IDEALITY_FACTOR = 1.783;
 
     public static final double MAX_VOLTAGE = 1000.0;
+    public static final double MAX_CURRENT = 10.0;
 
     private PNJunctionWire diode;
 

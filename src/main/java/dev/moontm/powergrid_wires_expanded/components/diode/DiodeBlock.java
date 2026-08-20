@@ -47,8 +47,8 @@ public class DiodeBlock
 
     @Override
     public void appendProperties(ItemStack stack, Player player, List<Component> tooltip) {
-        Voltage.rated(1000, player, tooltip);
-        Current.max(10, player, tooltip);
+        Voltage.rated((int) DiodeBlockEntity.MAX_VOLTAGE, player, tooltip);
+        Current.max((int) DiodeBlockEntity.MAX_CURRENT, player, tooltip);
     }
 
     @Override
