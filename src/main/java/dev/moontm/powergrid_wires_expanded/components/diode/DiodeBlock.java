@@ -24,7 +24,6 @@ public class DiodeBlock
                             IDecoratedTerminal.POSITIVE,
                             7, 3, 0,
                             9, 5, 3
-
                     ).withColor(IDecoratedTerminal.RED),
 
                     // Terminal 1 = cathode
@@ -47,11 +46,7 @@ public class DiodeBlock
     }
 
     @Override
-    public void appendProperties(
-            ItemStack stack,
-            Player player,
-            List<Component> tooltip
-    ) {
+    public void appendProperties(ItemStack stack, Player player, List<Component> tooltip) {
         Voltage.rated(1000, player, tooltip);
         Current.max(10, player, tooltip);
     }

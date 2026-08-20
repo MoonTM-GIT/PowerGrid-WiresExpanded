@@ -35,7 +35,6 @@ public class DiodeBlockEntity extends ElectricBlockEntity {
                 builder.terminalNode(0),
                 builder.terminalNode(1)
         );
-
         builder.add(diode);
     }
 
@@ -53,7 +52,6 @@ public class DiodeBlockEntity extends ElectricBlockEntity {
     public void electricalTick() {
         if (diode == null)
             return;
-
         applyPower(diode);
     }
 }
