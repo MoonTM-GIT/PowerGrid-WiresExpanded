@@ -10,5 +10,5 @@
   "thermalMass": 21,
   "verticalCoefficient": 1.01,
   "horizontalCoefficient": 1.01,
-  "wireThickness": 0.125
+  "wireThickness":  0.25
 }
