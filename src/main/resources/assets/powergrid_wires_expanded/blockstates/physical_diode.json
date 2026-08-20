@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "powergrid_wires_expanded:block/physical_diode"
+    },
+    "facing=east": {
+      "model": "powergrid_wires_expanded:block/physical_diode",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "powergrid_wires_expanded:block/physical_diode",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "powergrid_wires_expanded:block/physical_diode",
+      "y": 270
+    }
+  }
+}
