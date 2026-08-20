@@ -1,0 +1,16 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "create:iron_sheet"
+    }
+  ],
+  "results": [
+    {
+      "id": "powergrid_wires_expanded:iron_wire_50mm",
+      "count": 2
+    }
+  ],
+  "processingTime": 50
+}
+

@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_block"
+    }
+  ],
+  "results": [
+    {
+      "id": "powergrid_wires_expanded:iron_wire_200mm",
+      "count": 4
+    }
+  ],
+  "processingTime": 100
+}

@@ -3,5 +3,9 @@
   "item.powergrid_wires_expanded.copper_wire_50mm": "50mm² Copper Wire",
   "item.powergrid_wires_expanded.copper_wire_100mm": "100mm² Copper Wire",
   "item.powergrid_wires_expanded.copper_wire_200mm": "200mm² Copper Wire",
+  "item.powergrid_wires_expanded.iron_wire_50mm": "50mm² Iron Wire",
+  "item.powergrid_wires_expanded.iron_wire_100mm": "100mm² Iron Wire",
+  "item.powergrid_wires_expanded.iron_wire_200mm": "200mm² Iron Wire",
+  "item.powergrid_wires_expanded.iron_wire_400mm": "400mm² Iron Wire",
   "itemGroup.wires_expanded": "Create: Power Grid - Wires Expanded"
 }

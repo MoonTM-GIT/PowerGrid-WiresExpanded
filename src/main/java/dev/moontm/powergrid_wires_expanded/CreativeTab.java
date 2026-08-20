@@ -11,8 +11,8 @@ public class CreativeTab {
             .icon(() -> new ItemStack(WireItems.COPPER_WIRE_50MM.get()))
             .title(Component.translatable("itemGroup.wires_expanded"))
             .displayItems((parameters, output) -> {
-                // Copper Wire
-                WireItems.COPPER_WIRES.forEach(output::accept);
+                // Wires
+                WireItems.WIRES.forEach(output::accept);
             })
             .build());
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "powergrid_wires_expanded:item/wires/iron/iron_wire_200mm"
+  }
+}

@@ -2,12 +2,12 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "item": "minecraft:copper_ingot"
+      "item": "minecraft:iron_ingot"
     }
   ],
   "results": [
     {
-      "id": "powergrid_wires_expanded:copper_wire_50mm",
+      "id": "powergrid_wires_expanded:iron_wire_100mm",
       "count": 1
     }
   ]

@@ -20,7 +20,7 @@ public class WiresExpanded {
 
     public WiresExpanded(IEventBus modEventBus, ModContainer modContainer) {
         //force class init so deferred registration works
-        WireItems.COPPER_WIRES.getFirst();
+        WireItems.WIRES.getFirst();
         CreativeTab.CREATIVE_TAB.getId();
 
         ITEMS.register(modEventBus);
