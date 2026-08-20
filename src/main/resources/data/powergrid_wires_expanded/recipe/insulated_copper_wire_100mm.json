@@ -1,11 +1,11 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "powergrid:wires_expanded:copper_cable_50mm",
+    "powergrid:wires_expanded:copper_cable_100mm",
     "minecraft:kelp"
   ],
   "result": {
-    "id": "powergrid:wires_expanded:insulatedcopper_cable_50mm",
+    "id": "powergrid:wires_expanded:insulatedcopper_cable_100mm",
     "count": 1
   }
 }
