@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" height="200" alt="Logo_Background" src="https://github.com/user-attachments/assets/a8c96ae1-e857-4607-a6f5-53659464180f" />
+  <img width="200" height="200" alt="logo" src="https://github.com/user-attachments/assets/cbc04048-c5aa-4cd4-88f9-ab14e3f8bd59" />
 </p>
 <h1 align="center">Create: Power Grid - Wires Expanded</h1>
 Create: Power Grid - Wires Expanded is an addon for the Create: Power Grid mod featuring thicker wires and other components enabling bigger and better power networks.
