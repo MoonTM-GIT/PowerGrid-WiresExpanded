@@ -9,7 +9,7 @@
     }
   ],
   "result": {
-    "id": "powergrid:wires_expanded:insulated_copper_wire_50mm",
+    "id": "powergrid_wires_expanded:insulated_copper_wire_50mm",
     "count": 1
   }
 }
