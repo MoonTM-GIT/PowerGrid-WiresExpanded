@@ -8,7 +8,7 @@ Originally, this was started because I needed wires with lower resistance for my
 
 <a href="https://modrinth.com/mod/wires-expanded"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/0a3449fd26bf1375d2c5c26f096c8f30aa358766/assets/compact/available/modrinth_vector.svg" alt="Modrinth Badge linking to the Modrinth Page" style="width:200px;height:40px;"></a>
 
-## License
+## Attributions
 
 The Project uses multiple assets from the original Create: Power Grid mod;
 
